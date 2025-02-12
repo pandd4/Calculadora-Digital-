@@ -43,6 +43,7 @@ Uma **calculadora digital** desenvolvida com **HTML, CSS e JavaScript**, permiti
 ✅ Implementar **histórico de cálculos**.  
 
 ---
+📎 Link de teste: https://codepen.io/Amanda-Santos-the-builder/pen/bNGGjeQ
 
 📌 **Desenvolvido por Amanda Santos** 🤍✨  
 
